@@ -1,0 +1,30 @@
+
+body{
+
+    text-align: center;
+}
+
+nav a{
+
+
+background-color: rgb(155, 121, 76);
+padding: 10px;
+text-align: center;
+text-decoration: none;
+
+
+}
+
+section{
+
+    padding: 50px;
+
+}
+footer{
+
+    background-color: rgb(211, 151, 73);
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
